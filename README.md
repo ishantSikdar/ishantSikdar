@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/ishantSikdar/](www.github.com/ishantSikdar/)
 
-- 💬 Ask me about **Java, Spring Boot, JavaScript, ReactJS, MongoDB, and MySQL.**
+- 💬 Never ask me about **Java, Spring Boot, JavaScript, ReactJS, NodeJs, ExpressJs, MongoDB, and MySQL. Because if you will, then I won't stop and can't able to do my work**
 
 - 📫 How to reach me **ishant9715@gmail.com**
 
