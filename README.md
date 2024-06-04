@@ -1,15 +1,5 @@
 # Hey There! I am Ishant
-### I am a Java-Backend Developer right now
-
-- Currently, I am learning and developing Springboot projets. Aiming to develop end to end Modern Web based applications.
-
-- 👨‍💻 All of my projects are available at [www.github.com/ishantSikdar/](www.github.com/ishantSikdar/)
-
-- 💬 Never ask me about **Java, Spring Boot, JavaScript, ReactJS, NodeJs, ExpressJs, MongoDB, and MySQL. Because if you will, then I won't stop and can't able to do my work**
-
-- 📫 How to reach me **ishant9715@gmail.com**
-
-- ⚡ Fun fact **?**
+### I am a Software Engineer 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
